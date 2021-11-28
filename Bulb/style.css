@@ -1,0 +1,17 @@
+.btn-on{
+    padding: 10px;   
+    background-color: aqua;   
+}
+
+#bulb-img{
+    height: 300px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color: ;
+}
